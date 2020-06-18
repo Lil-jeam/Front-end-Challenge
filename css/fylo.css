@@ -17,7 +17,7 @@ font-size: 12px;
 body {
     background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: center center;
      
 }
 	.first{
@@ -101,7 +101,7 @@ color: grey;
 }
 	
 .attribution{
- margin-top: 70px;
+ margin-top: 50px;
 color: white;
 
 }
