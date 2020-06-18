@@ -1,0 +1,112 @@
+.move span{
+	font-weight: bolder;
+	font-size: 15px;
+}
+	.move{
+margin-left: 30px;
+color: white;
+font-family: "Lucida Console", Courier, monospace;
+font-size: 12px;
+}
+.space{
+   color: white;
+	padding: 0px;
+
+}
+
+body {
+    background : white;
+    color : black;
+     
+}
+	.first{
+	width: 275px;
+	margin: 30% 20% 0% 7%;
+	background: hsl(228, 56%, 26%);
+	height: 160px;
+	border-radius: 10px 75px 10px 10px;
+	padding: 10% 0px 0px 10%;
+	}
+.image{
+	background: hsl(229, 57%, 11%);
+	margin-right: 10px;
+	padding:10px;
+	border-radius: 5px;
+	height: 20px;
+	width: 22px;
+	}
+	.fylo{
+		margin-bottom: 25px;
+		}
+.second{
+	width: 310px;
+	height: 120px;
+	background: hsl(228, 56%, 26%);
+	border-radius: 10px;
+	margin: 15px 20% 10% 7%;
+	padding: 20px 0px 20px 0px;
+	}
+	
+.second .meter { 
+	margin-left: 18px;
+	width: 85%;
+	height: 15px;
+	border: 2px solid hsl(221, 57%, 18%) ;
+	border-radius: 10px; 
+	background-color: hsl(221, 57%, 18%); 
+	display: flex;
+	align-items: center;} 
+.second .meter .used { 
+	width: 78%; 
+	height: 100%;
+	border-radius: 10px; 
+	background-image: linear-gradient(to right, hsl(6, 100%, 80%), hsl(335, 100%, 65%)); 
+	display: flex;
+	justify-content: flex-end;}
+.second .meter .used .indicator { 
+	width: 10px; 
+	padding-top: 5px;
+	margin-top: 2.5px;
+	margin-right: 2px;
+	height: 5px;
+	border-radius: 100%;
+	background-color: #ffffff;}
+.usedup{
+   display: flex;
+	justify-content: space-between;
+
+}
+	.last {
+	font-family: "Lucida Console", Courier, monospace;
+	margin-left: 20%;
+	width: 50%;
+	height: 50px;
+	background-color: #ffffff;
+	border-radius: 10px;
+	padding: 2px 0px 15px 15px;
+	color: black;
+	bottom: -20%;
+	right: 30%;
+	z-index: 4;}
+.last p {
+font-weight: 900;
+}
+ .last p span { 
+font-weight: bolder;
+color: black;
+font-size: 35px;}
+.last p sup{
+color: grey;
+}
+	
+.attribution{
+ margin-top: 80px;
+color: white;
+
+}
+	
+	
+	
+	
+	
+	
